@@ -1,0 +1,1 @@
+# Quine-Mcklusky-Equation-Solver
